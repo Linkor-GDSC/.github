@@ -52,8 +52,8 @@ This app will provide quality education to multicultural students, and reduce in
 ![answer](https://github.com/Linkor-GDSC/Linkor-BE/assets/145983280/edf10c14-9383-4ae2-baf2-feea83d125f7)
 
 ## 📲 Execution Method
-1. Download the apk file from 
-2. Run the apk file on your phone.
+1. Download the apk file from [here](https://drive.google.com/drive/folders/1HRZLX59zPh3paGZHwHaezoXA38AwY3Nc?usp=sharing)
+2. Run the apk file on your Android phone.
 
 
 ## ✨ Contributors
