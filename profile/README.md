@@ -42,7 +42,7 @@ This app will provide quality education to multicultural students, and reduce in
 ### Search Tutors
 ![searchtutor](https://github.com/Linkor-GDSC/Linkor-BE/assets/145983280/366b263d-d16d-4f30-99e4-a7e0af5b08d8)
 ### Tutor Matching
-![tutormatching](https://github.com/Linkor-GDSC/Linkor-BE/assets/145983280/e5ebfc8d-fffb-4e32-955d-0788f0c7e1d0)
+![matchtutor](https://github.com/Linkor-GDSC/Linkor-BE/assets/145983280/9c73fcdf-e457-4ae6-9010-033283dedd59)
 ### Tutoring Acceptance
 ![accepttutoring](https://github.com/Linkor-GDSC/Linkor-BE/assets/145983280/bd10a144-0982-446b-9482-9ecc16c09a87)
 ### Learning Korean Sentences
